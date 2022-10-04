@@ -1,0 +1,6 @@
+framework module stepper_plugin {
+  umbrella header "stepper_plugin-umbrella.h"
+
+  export *
+  module * { export * }
+}
